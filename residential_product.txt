@@ -1,0 +1,10 @@
+Single-phase power represents a type of alternating current (AC) distribution system where electrical energy is transmitted using a single sinusoidal waveform.
+This configuration is commonly employed in residential, small commercial, and light industrial settings.
+
+
+Three-phase power represents a robust and efficient method of alternating current (AC) distribution. Three-phase systems employ three separate waveforms, each
+with a 120-degree phase. This configuration is the preferred choice for a wide range of industrial and commercial applications.
+
+
+Energy storage batteries are designed to store electrical energy effieiently, offering a crucial means to balance supply and demand on power grids and enhance the integration
+of renewable energy sources. 
