@@ -1,0 +1,34 @@
+git add .
+
+git commit -m "修改内容"
+
+git push -u origin main
+
+
+/* "build": "vue-cli-service build",*/
+
+打包：npm run build
+
+npm run build:test
+npm run build:lsy
+npm run build:odm
+
+
+自己运行: npm run dev
+
+
+
+本地测试生产包效果：
+npm run build
+serve -s dist
+
+
+EmailJS:
+service_id:
+service_pg1ymsg
+
+template_id:
+template_fs0b64q
+
+
+public key: rztuMLogylVQ0Zq7s
